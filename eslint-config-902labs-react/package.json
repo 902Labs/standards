@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-902labs-react",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "902 Labs Base ESLint For ReactJS",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   "dependencies": {
     "eslint-config-airbnb-base": "^11.2.0",
     "eslint-config-airbnb": "^15.0.2",
-    "eslint-config-902labs": "^1.0.1"
+    "eslint-config-902labs": "^1.0.2"
   },
   "peerDependencies": {
     "eslint": "^3.19.0",
