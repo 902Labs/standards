@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-902labs",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "902 Labs Base ESLint",
   "main": "index.js",
   "scripts": {
@@ -9,11 +9,11 @@
   "author": "Russell Brown <russ@902labs.com>",
   "license": "GPL",
   "dependencies": {
-    "eslint-config-airbnb-base": "^11.2.0"
+    "eslint-config-airbnb-base": "^11.3.1"
   },
   "peerDependencies": {
-    "eslint": "^3.19.0",
-    "eslint-plugin-import": "^2.6.1"
+    "eslint": "4.4.0",
+    "eslint-plugin-import": "^2.7.0"
   },
   "repository": {
     "type": "git",

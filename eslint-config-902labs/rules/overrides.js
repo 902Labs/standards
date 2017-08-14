@@ -1,4 +1,4 @@
-aodule.exports = {
+module.exports = {
 	'ecmaFeatures': {
 	},
 	'rules': {
