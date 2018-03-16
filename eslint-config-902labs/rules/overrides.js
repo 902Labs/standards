@@ -3,6 +3,7 @@ module.exports = {
 	},
 	'rules': {
 		'brace-style': ['error', '1tbs', { 'allowSingleLine': false }],
+		'object-curly-newline': ['error', { 'multiline': true }],
 		'comma-dangle': ['error', 'never'],
 		'curly': ['error', 'all'],
 		'handle-callback-err': ['error', '^(e|err|error)$'],
